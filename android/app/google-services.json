@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1016341718622",
+    "firebase_url": "https://bahriauniversity-4618d.firebaseio.com",
+    "project_id": "bahriauniversity-4618d",
+    "storage_bucket": "bahriauniversity-4618d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016341718622:android:ba73a77f50ea4fc2",
+        "android_client_info": {
+          "package_name": "com.librarybugcheck"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1016341718622-0q098l778koolv7te8n39giqpbh1b76a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.librarybugcheck",
+            "certificate_hash": "e75f4981217120186ba917c9d9b69a35986234c6"
+          }
+        },
+        {
+          "client_id": "1016341718622-s9esiistkur7vfgongngl5b1pv0nmbgi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_-7gCIZBM9HDPqkDyFwnxw5I2TowvYHA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1016341718622-s9esiistkur7vfgongngl5b1pv0nmbgi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
